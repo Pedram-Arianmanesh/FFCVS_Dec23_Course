@@ -1,1 +1,1 @@
-This repo is my answers for computer vision course's exercises and projects from Filoger/Fannap-Campus.
+This repo is my answers for computer vision course's exercises and projects from Filoger/Fanap-Campus.
